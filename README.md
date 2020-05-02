@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Rotting Fruits
 
-You can use the [editor on GitHub](https://github.com/jgch88/rotting-fruits-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Information and Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rotting Fruits is an app that tries to help you play your part in reducing food wastage.
 
-### Markdown
+# Data storage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app does not store any personally identifiable information. We will not ask you to create an account, nor login to any  third party authentication services.
 
-```markdown
-Syntax highlighted code block
+We use anonymised data to improve Rotting Fruits.
 
-# Header 1
-## Header 2
-### Header 3
+Rotting Fruits collects anonymised data about your app usage to help us improve the app and provide a better user experience. This is done through a randomly generated User ID.
 
-- Bulleted
-- List
+The app does use third party services that may collect information used to identify you. This information is not used or stored by us in any form.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jgch88/rotting-fruits-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link to privacy policy of third party service providers used by the app:
+- Firebase Analytics, Firestore (https://firebase.google.com/support/privacy/)
